@@ -1,0 +1,30 @@
+{   
+    "output": "out",
+    "author":"Fanfo",
+    "version":"0.1.0",
+    "resource_pack":{
+        "name":"SMP server",
+        "description":"Official Resourcepack",
+        "load":[
+            "rps/Fresh Flower Pots.zip",
+            "rps/animated-items 1.21.x-26.1.x - v1.6.3.zip",
+            "rps/Blockstates+V.1.5.3.zip",
+            "rps/EvenBetterEnchants_v3_1.21.5+.zip",
+            "rps/Fancy Crops v1.3.zip",
+            "rps/Fresh Flower Pots.zip",
+            "rps/Fresh Food.zip",
+            "rps/Os' Colorful Cobblestone.zip",
+            "rps/Os' Colorful Grasses (Mix).zip",
+            "rps/Unique Dark - Lite - 1.20.2-26.x.zip"
+        ],
+        "pack_format": 32,
+        "min_format": [32,0],
+        "max_format": [999,0],
+        "supported_formats": [32, 999],
+        "zipped": true
+    },
+    "meta" : {
+        "message":"Hello World!"
+    },
+    "require": ["beet.contrib.optifine"]
+}
